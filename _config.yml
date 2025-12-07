@@ -1,0 +1,8 @@
+title: Clojure Archeology
+description: Exploring Clojure source code from the first commit (2006)
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
